@@ -17,5 +17,3 @@ You can use this repository to learn more about my analytical skills and the pro
 ## Contacto
 
 If you have any questions about this repository, please feel free to contact me.
-
-Espero que esta descripción sea útil para tu repositorio. Si necesitas algo más, no dudes en pedírmelo.
