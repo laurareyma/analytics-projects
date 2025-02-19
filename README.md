@@ -14,6 +14,6 @@ The repository is organized by project, with each project contained in its own f
 
 You can use this repository to learn more about my analytical skills and the projects I have developed. You can also use the code and data for your own projects, with proper attribution.
 
-## Contacto
+## Contact
 
 If you have any questions about this repository, please feel free to contact me.
